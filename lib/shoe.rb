@@ -14,5 +14,6 @@ def brand=(brands)
   if ! (BRANDS.include?(@brand))
   BRANDS << brands
 end
+end
 
 end
