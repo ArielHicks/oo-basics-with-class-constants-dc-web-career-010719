@@ -10,8 +10,8 @@ def initialize(title)
 end
 
 def genre=(genre)
-  @genre = genre 
-  GENRES << genre 
+  @genre = genre
+  GENRES << genre
 end
 
 def turn_page
