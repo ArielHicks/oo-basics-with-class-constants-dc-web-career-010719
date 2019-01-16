@@ -1,7 +1,6 @@
 class Book
 
-@@GENRES = []
-
+attr_accessor :GENRES
 
 
 
