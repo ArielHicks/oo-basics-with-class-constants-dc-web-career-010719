@@ -1,6 +1,6 @@
 class Shoe
 
-  attr_accessor :brand_name,
+  attr_accessor :brand_name
 
 BRANDS = []
 
